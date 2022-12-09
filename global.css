@@ -1,0 +1,58 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-righteous: Righteous;
+  --font-red-hat-mono: "Red Hat Mono";
+  --font-nunito-sans: "Nunito Sans";
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --font-size-2xs: 12px;
+  --font-size-xs: 14px;
+  --font-size-sm: 15px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 33px;
+  --font-size-2xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-teal: #006d77;
+  --gray-5: #e0e0e0;
+  --color-gray-200: #ded2d9;
+  --color-gray-300: #a1a1a1;
+  --color-gray-400: #929292;
+  --gray-3: #828282;
+  --color-gray-600: #525252;
+  --color-gray-700: #444;
+  --color-violet: #c66aa1;
+  --color-green: #3ae82b;
+  --color-purple: #7f265b;
+
+  /* Gaps */
+  --gap-3xs: 3px;
+  --gap-2xs: 4px;
+  --gap-xs: 8px;
+  --gap-sm: 9px;
+  --gap-md: 10px;
+  --gap-lg: 24px;
+  --gap-xl: 32px;
+  --gap-2xl: 36px;
+
+  /* Paddings */
+  --padding-2xs: 10px;
+  --padding-xs: 12px;
+  --padding-sm: 13px;
+  --padding-md: 18px;
+  --padding-lg: 20px;
+  --padding-xl: 32px;
+
+  /* border radiuses */
+  --br-2xs: 2px;
+  --br-xs: 5px;
+  --br-sm: 6px;
+  --br-md: 8px;
+  --br-lg: 16px;
+  --br-xl: 34px;
+}
