@@ -1,0 +1,222 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.full-name-div {
+  font-weight: 600;
+}
+.full-name-div,
+.mailabccom-div {
+  position: relative;
+  display: inline-block;
+}
+.frame-div19,
+.frame-div20 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-div20 {
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 420px;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-2xs);
+  align-items: center;
+  color: var(--gray-5);
+}
+.frame-div19 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-2xs);
+}
+.input {
+  border: 0;
+  font-family: var(--font-nunito-sans);
+  font-size: var(--font-size-3xs);
+  background-color: transparent;
+  position: relative;
+  color: var(--gray-5);
+  text-align: left;
+  display: inline-block;
+}
+.frame-div25 {
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 420px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-md) var(--padding-2xs) var(--padding-sm);
+  align-items: center;
+  justify-content: flex-start;
+}
+.iconcheckboxunfilled-div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-purple);
+  border: 2px solid var(--color-purple);
+  box-sizing: border-box;
+}
+.check-solid-2-icon {
+  position: absolute;
+  height: 83.33%;
+  width: 83.33%;
+  top: 7.14%;
+  right: 8.33%;
+  bottom: 9.52%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.check-div {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+}
+.checkbox-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+.frame-div18,
+.frame-div23,
+.frame-div26 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div26 {
+  flex-direction: row;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-300);
+}
+.frame-div18,
+.frame-div23 {
+  flex-direction: column;
+  gap: var(--gap-xs);
+}
+.frame-div18 {
+  gap: var(--gap-lg);
+}
+.signup-div1 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  font-family: var(--font-nunito-sans);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.frame-button10 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-2xs) var(--padding-xs);
+  background-color: var(--color-green);
+  border-radius: var(--br-sm);
+  width: 420px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frame-div17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-xs);
+}
+.login-a {
+  text-decoration: none;
+  position: relative;
+  font-weight: 600;
+  color: var(--color-violet);
+  display: inline-block;
+}
+.frame-div30 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-md);
+  color: var(--gray-3);
+}
+.back-to-home-page {
+  text-decoration: none;
+  position: relative;
+  color: var(--color-violet);
+  display: inline-block;
+}
+.frame-div16,
+.rhs-div {
+  position: absolute;
+  width: 459px;
+  height: 536px;
+}
+.frame-div16 {
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-2xl);
+}
+.rhs-div {
+  top: 169px;
+  left: 675px;
+}
+.frame-div31 {
+  position: absolute;
+  top: 109px;
+  left: 734px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-600);
+}
+.rectangle-icon,
+.th-1-1 {
+  position: absolute;
+  top: 14px;
+  left: 841px;
+  width: 119px;
+  height: 84px;
+  object-fit: cover;
+}
+.th-1-1 {
+  top: 0;
+  left: 0;
+  width: 675px;
+  height: 976px;
+}
+.signup-div {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 0 45px #e1c2a8;
+  border: 10px solid var(--color-white);
+  box-sizing: border-box;
+  width: 100%;
+  height: 798px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-nunito-sans);
+}
